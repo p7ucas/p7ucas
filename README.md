@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**p7ucas/p7ucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 Currently studying at UFMA
+🌱 Learning Java
+💻 Skills: Java, Python, Git
+📚 Currently exploring: JPA
+📂 Projects: Vai de Ferry
+🎓 Education: UFMA - [BICT]
+🌟 Interests: Programming, Engineering, Fitness
+📫 Reach me at: plubarros17@gmail.com
+📞 +55 (98) 99973-6132
+🔗 [Linkedin](http://www.linkedin.com/in/pedro-lucas-52147b273) | [GitHub](https://github.com/p7ucas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
