@@ -2,10 +2,6 @@
 
 
 🔭 Currently studying at UFMA
-🌱 Learning Java
-💻 Skills: Java, Python, Git
-📚 Currently exploring: JPA
-📂 Projects: Vai de Ferry
 🎓 Education: UFMA - [BICT]
 🌟 Interests: Programming, Engineering, Fitness
 📫 Reach me at: plubarros17@gmail.com
